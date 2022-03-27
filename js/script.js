@@ -1,5 +1,3 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
-//
 // Created by: Jaejun Lee
 // Created on: Mar 2022
 // This file contains the JS functions for index.html
